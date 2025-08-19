@@ -7,4 +7,4 @@
 <img src="https://github.com/kaeetech/L2D-Chibi-Base/blob/main/Part.png">
 <br>
 <strong>Support</strong>
-<div><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbagibagi.co%2F&psig=AOvVaw1vcEBjjA1oK8QLwzgDJuNG&ust=1755650017926000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj9-I7QlY8DFQAAAAAdAAAAABAE"><a href="https://bagibagi.co/kaedeniel">Here</a></div>
+<div><img src="https://bagibagi.co/images/landing/Master_Logo_webp.webp"><a href="https://bagibagi.co/kaedeniel">Here</a></div>
